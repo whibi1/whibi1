@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate Front Edn Developing
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about being a hard working student
-- 📫 How to reach me: [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=[link](https://www.instagram.com/ahmet_akkus_15/))](link) 
+- 📫 How to reach me: [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/ahmet_akkus_15](https://www.instagram.com/ahmet_akkus_15/))
 
 
 - 😄 Pronouns: Teacher /Father / Learner
